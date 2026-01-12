@@ -1,4 +1,4 @@
-🎙️ Voice Assistance System (Python)
+🎙️ Offline Voice Assistance System (Python)
 
 A modular, offline-capable Python-based Voice Assistant built with a clean Listener → Parser → Dispatcher architecture.
 This project focuses on real-world speech recognition, system-level command execution, and maintainable software design.
